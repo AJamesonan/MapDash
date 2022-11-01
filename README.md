@@ -5,7 +5,7 @@ I built this app with the desire to have a personalized digital "planner". My in
 
 
 
-#getting started
+## getting started
 A Google Maps API key is needed to run the app. https://developers.google.com/maps:
 
 Once you have the API key you can insert it [In the API Controller](https://github.com/AJamesonan/MapDash/blob/master/src/main/java/com/codingdojo/controller/APIController.java) in place of API_KEY 
