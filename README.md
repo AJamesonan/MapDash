@@ -3,6 +3,8 @@ Time management dashboard showing travel times to frequented destinations and li
 
 I built this app with the desire to have a personalized digital "planner". My intention for the final version of this will be all of the day's tasks and infromation layed out as to be completely understood at a glance.
 
+This app is built with Java using the Springboot framework, JSP for the View, and utilizing a SQL database for user profiles and saved locations. 
+
 
 
 ## getting started
